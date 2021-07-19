@@ -47,6 +47,7 @@
 
     this.sites = sites || {
       "7digital": { name: "7digital", url: "http://www.7digital.com" },
+      "symfonycasts": { name: "Symfonycasts", url: "https://symfonycasts.com" },
       "8tracks": { name: "8tracks", url: "http://www.8tracks.com" },
       "amazon": { name: "Amazon Cloud Player", url: "https://www.amazon.com/gp/dmusic/cloudplayer/player" },
       "ampache": { name: "Ampache", url: "http://ampache.org" },
